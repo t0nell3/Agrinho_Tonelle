@@ -62,7 +62,7 @@
         /* Banner Hero */
         .hero {
             background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                        url('img/IMG_20250324_183304975_HDR.jpg');
+                        url('img/IMG_20200328_171023929_HDR.jpg');
             background-size: cover;
             background-position: center;
             color: var(--branco);
