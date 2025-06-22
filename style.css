@@ -415,6 +415,34 @@
         .redes-sociais a:hover {
             color: var(--verde-secundario);
         }
+
+        .footer-contato-produtores {
+ 
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.whatsapp-btn {
+  display: inline-block;
+  background-color: #25D366;
+ 
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.whatsapp-btn:hover {
+  background-color: #128C7E;
+}
+
+.observacao {
+  font-size: 0.8em;
+  color: #666;
+}
         
         /* Responsivo */
         @media (max-width: 768px) {
