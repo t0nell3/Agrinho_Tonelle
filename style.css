@@ -95,7 +95,6 @@
         }
         
         .botao:hover {
-            background-color: transparent;
             border-color: var(--branco);
         }
         
