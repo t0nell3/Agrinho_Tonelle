@@ -43,7 +43,7 @@ Frescas, naturais e 100% orgânicas
 Responsivo - Disponível via navegador web para dispositivo móvel e Desktop.
 
 **Para Produtores:**  
-Painel administrativo -  Análise e Cadastro de produtores via Whatz no Rodapé do site.
+Painel administrativo - A principio a Análise e Cadastro de produtores será via Whatz no Rodapé do site. Reponsável: Claudio Tonelle.
 
 ---
 
