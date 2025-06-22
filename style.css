@@ -91,12 +91,12 @@
             text-decoration: none;
             font-weight: 600;
             transition: all 0.3s;
-          
+            border: 2px solid transparent;
         }
         
         .botao:hover {
-            
-            
+            background-color: transparent;
+            border-color: var(--branco);
         }
         
         /* Seção Agricultura Sustentável */
