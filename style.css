@@ -274,6 +274,7 @@
         /* Banner da Categoria */
         .banner-categoria {
             background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+            /*Foto super larga e baixinha (tipo banner), mostrando um monte de fruta, verdura e legume orgânico bem fresquinho. Quero aquela aparência de feira natural: cores vivas, gotinha de água brilhando nas folhas, textura da casca dos legumes visível. Fundo branco liso ou de madeira clara bem simples.*/
                         url('img/banner.jpg');
             background-size: cover;
             background-position: center;
